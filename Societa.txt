@@ -1,0 +1,9 @@
+Nome, Email, Numero di Telefono, Via, Città, CAP, Provincia
+Pistoia Atletica,PT115@fidal.it,3334567890,Via Giuseppe Garibaldi,Pistoia,51034,PT
+Atletica Prato,PO112@fidal.it,3471234567,Via Galileo Galilei,Prato,59100,PO
+Firenze Marathon,FI023@fidal.it,3456789012,Via Aldo Moro,Firenze,51100,FI
+Atletica Agliana,PT@220@fidal.it,3492345678,Via Verdi,Agliana,51031,PT
+Fiamme Gialle,RM@001@fidal.it,3319876543,Via Roma,Roma,100132,RM
+Fiamme Azzurre,RM@003@fidal.it,3204567890,Via Vittorio Emanuele II,Roma,10029,RM
+Fiamme Oro,RM@004@fidal.it,3281234567,Via Cavour,Roma,10110,RM
+Fiamme Rosse,RM@129@fidal.it,3382345678,Via Dante Alighieri,Roma,10042,RM
