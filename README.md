@@ -10,10 +10,10 @@ La cartella del progetto contiene i seguenti file:
 
 | File | Descrizione |
 | :--- | :--- |
-| `Relazione progetto BDSI.pdf` | Documento completo contenente la traccia del progetto, la progettazione concettuale (diagramma E-R), la progettazione logica e le scelte implementative. |
-| `Progetto.sql` | Codice SQL completo (DDL per la creazione delle tabelle, vincoli di integrità ed eventuali query/procedure). |
-| `Progetto.txt` | Copia del codice SQL in formato testo per una consultazione rapida senza editor dedicati. |
-| `Societa.txt` | Dataset o script di esempio utilizzato per il popolamento iniziale del database. |
+| `Relazione progetto BDSI.pdf` | Documento di progetto completo contenente la traccia, la progettazione concettuale (schema E-R), la progettazione logica e le scelte implementative. |
+| `Progetto.sql` | Script SQL principale contenente la creazione del DB, le tabelle, i dati iniziali, le query di verifica, viste, stored procedure, funzioni e trigger. |
+| `Progetto.txt` | Copia in formato testo dello script SQL per una rapida consultazione online. |
+| `Societa.txt` | Dataset CSV/TXT utilizzato per l'importazione automatica delle società sportive tramite `LOAD DATA LOCAL INFILE`. |
 
 ---
 
